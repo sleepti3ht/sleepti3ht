@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Backend & Data Engineer. Building high-performance trading bots, system utilities, and data pipelines. I turn noisy data into actionable signals.
 <!--
 **sleepti3ht/sleepti3ht** Backend & Data Engineer. Building high-performance trading bots, system utilities, and data pipelines. I turn noisy data into actionable signals.
 
