@@ -1,4 +1,4 @@
-### Hey! 👋 I'm Artem.
+### Hey! 👋 I'm Art.
 
 I build Python automation, AI-assisted tools, and production-ready data pipelines. I like systems that are fast, reliable, and easy to debug.
 
