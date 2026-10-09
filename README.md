@@ -2,8 +2,6 @@
 
 I build Python automation, AI-assisted tools, and production-ready data pipelines. I like systems that are fast, reliable, and easy to debug.
 
-I use AI tools like Cursor and Continue to move faster, but I keep full control over architecture, edge cases, and final quality.
-
 [![Telegram](https://img.shields.io/badge/Telegram-@sleept1ght-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sleept1ght)
 [![Email](https://img.shields.io/badge/Email-sleepti3ht@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sleepti3ht@gmail.com)
 
@@ -28,6 +26,7 @@ I use AI tools like Cursor and Continue to move faster, but I keep full control 
 - [**SanityBot**](https://github.com/sleepti3ht/SanityBot) — real-time monitoring and automation system with WebSocket primary flow, REST fallback, atomic writes, and rate-limit protection.
 - [**GooEye**](https://github.com/sleepti3ht/GooEye) — async data collection and LLM pipeline with structured output, translation, and Telegram observability.
 - [**Market Analytics Bot**](https://github.com/sleepti3ht/Market-Analytics-Bot) — real-time arbitrage signals bot with smart filters and an MCP server exposing market data as agent tools.
+- - [**Murmur**](https://github.com/sleepti3ht/Murmur) — local-first, Zero-Knowledge secret scanner for Git hooks (SHA-256 hashing, no raw secrets in logs).
   
 ⁛ &nbsp;**What I enjoy building**
 
@@ -35,9 +34,11 @@ I use AI tools like Cursor and Continue to move faster, but I keep full control 
 - **AI agents** with structured tools (MCP servers, function calling, evals)
 - **Data pipelines** that don't lose data (atomic writes, deduplication, cleanup)
 - **Desktop apps** with local-first storage (SQLite, no cloud dependency)
+- **Security tools** that respect privacy (Zero-Knowledge, no telemetry)
 - **Systems with contracts** — clear inputs, predictable outputs, no magic
 
 ⁛ &nbsp;**Currently working on**
 
-- 🔍 **Panopticon CVE Map** — small fixes for stable version
-- 📚 Learning: LangGraph, advanced async patterns, system design, Rust
+- 🚀 **Panopticon CVE Map** — CISA KEV integration, MD export, versioned chat (article published on dev.to)
+- 🔒 **Murmur** — Zero-Knowledge secret scanner for Git hooks (pre-commit security layer)
+- 📚 Learning: LangGraph, RAG architecture, eval frameworks (Langfuse/Ragas), ClickHouse
