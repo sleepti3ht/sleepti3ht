@@ -22,11 +22,17 @@ I build Python automation, AI-assisted tools, and production-ready data pipeline
 
 ⁛ &nbsp;**Selected projects**
 
-- [**Panopticon CVE Map**](https://github.com/sleepti3ht/Panopticon) — local desktop app for vulnerability analysis with an interactive graph and a local AI agent (MCP + OpenRouter).
-- [**SanityBot**](https://github.com/sleepti3ht/SanityBot) — real-time monitoring and automation system with WebSocket primary flow, REST fallback, atomic writes, and rate-limit protection.
-- [**GooEye**](https://github.com/sleepti3ht/GooEye) — async data collection and LLM pipeline with structured output, translation, and Telegram observability.
-- [**Market Analytics Bot**](https://github.com/sleepti3ht/Market-Analytics-Bot) — real-time arbitrage signals bot with smart filters and an MCP server exposing market data as agent tools.
-- [**Murmur**](https://github.com/sleepti3ht/Murmur) — local-first, Zero-Knowledge secret scanner for Git hooks (SHA-256 hashing, no raw secrets in logs).
+- [**Panopticon CVE Map**](https://github.com/sleepti3ht/Panopticon) `open-source` — desktop app for vulnerability analysis with CISA KEV + local AI agent. [dev.to](https://dev.to/sleepti3ht/building-panopticon-a-local-first-cve-intelligence-map-with-tauri-2-rust-python-4p6p).
+
+- [**Murmur**](https://github.com/sleepti3ht/Murmur) `open-source` — Zero-Knowledge secret scanner for Git hooks (SHA-256, no raw secrets).
+
+- [**Aero**](https://github.com/sleepti3ht/AeroUi) `open-source` — Windows File Explorer opacity control with atomic config writes.
+
+- [**Market Analytics Bot**](https://github.com/sleepti3ht/Market-Analytics-Bot) `open-source` — real-time arbitrage analytics with MCP server and Streamlit dashboard.
+
+- [**Sanity**](https://github.com/sleepti3ht/SanityBot) `private` — high-frequency trading bot with WebSocket + REST fallback, 0 HTTP 429 on 56M+ items. Architecture documented in README.
+
+- [**GooEye**](https://github.com/sleepti3ht/GooEye) `private` — Goofish sniper bot with multi-user isolation, mtop API interception, 0 CAPTCHA on 44k+ items.
   
 ⁛ &nbsp;**What I enjoy building**
 
