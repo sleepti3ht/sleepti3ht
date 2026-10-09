@@ -26,7 +26,7 @@ I build Python automation, AI-assisted tools, and production-ready data pipeline
 - [**SanityBot**](https://github.com/sleepti3ht/SanityBot) — real-time monitoring and automation system with WebSocket primary flow, REST fallback, atomic writes, and rate-limit protection.
 - [**GooEye**](https://github.com/sleepti3ht/GooEye) — async data collection and LLM pipeline with structured output, translation, and Telegram observability.
 - [**Market Analytics Bot**](https://github.com/sleepti3ht/Market-Analytics-Bot) — real-time arbitrage signals bot with smart filters and an MCP server exposing market data as agent tools.
-- - [**Murmur**](https://github.com/sleepti3ht/Murmur) — local-first, Zero-Knowledge secret scanner for Git hooks (SHA-256 hashing, no raw secrets in logs).
+- [**Murmur**](https://github.com/sleepti3ht/Murmur) — local-first, Zero-Knowledge secret scanner for Git hooks (SHA-256 hashing, no raw secrets in logs).
   
 ⁛ &nbsp;**What I enjoy building**
 
