@@ -1,4 +1,4 @@
-### Hey! 👋 I'm Art.
+### Sup, I'm Art👋 
 
 I build Python automation, AI-assisted tools, and production-ready data pipelines. I like systems that are fast, reliable, and easy to debug.
 
@@ -20,16 +20,16 @@ I build Python automation, AI-assisted tools, and production-ready data pipeline
   <img src="https://ghchart.rshah.org/7C3AED/sleepti3ht" alt="Artem's GitHub contribution calendar" />
   </p>
 
-⁛ &nbsp;**Selected projects**
+ &nbsp;**Selected projects**
 
-- [**Panopticon CVE Map**](https://github.com/sleepti3ht/Panopticon) `open-source` — desktop app for vulnerability analysis with CISA KEV + local AI agent. [dev.to](https://dev.to/sleepti3ht/building-panopticon-a-local-first-cve-intelligence-map-with-tauri-2-rust-python-4p6p).
+- [**Panopticon CVE Map**](https://github.com/sleepti3ht/Panopticon) `open-source` — desktop app for vulnerability analysis with CISA KEV + local AI agent. [dev.to](https://dev.to/sleepti3ht/building-panopticon-a-local-first-cve-intelligence-map-with-tauri-2-rust-python-4p6p)
 - [**Murmur**](https://github.com/sleepti3ht/Murmur) `open-source` — Zero-Knowledge secret scanner for Git hooks (SHA-256, no raw secrets).
 - [**Aero**](https://github.com/sleepti3ht/AeroUi) `open-source` — Windows File Explorer opacity control with atomic config writes.
 - [**Market Analytics Bot**](https://github.com/sleepti3ht/Market-Analytics-Bot) `open-source` — real-time arbitrage analytics with MCP server and Streamlit dashboard.
 - [**Sanity**](https://github.com/sleepti3ht/SanityBot) `private` — high-frequency trading bot with WebSocket + REST fallback, 0 HTTP 429 on 56M+ items. Architecture documented in README.
 - [**GooEye**](https://github.com/sleepti3ht/GooEye) `private` — Goofish sniper bot with multi-user isolation, mtop API interception, 0 CAPTCHA on 44k+ items.
   
-⁛ &nbsp;**What I enjoy building**
+**What I enjoy building**
 
 - **Async systems** that survive edge cases (WebSocket + REST fallback, retry with backoff)
 - **AI agents** with structured tools (MCP servers, function calling, evals)
@@ -38,7 +38,7 @@ I build Python automation, AI-assisted tools, and production-ready data pipeline
 - **Security tools** that respect privacy (Zero-Knowledge, no telemetry)
 - **Systems with contracts** — clear inputs, predictable outputs, no magic
 
-⁛ &nbsp;**Currently working on**
+**Currently working on**
 
 - 🚀 **Panopticon CVE Map** — CISA KEV integration, MD export, versioned chat (article published on dev.to)
 - 🔒 **Murmur** — Zero-Knowledge secret scanner for Git hooks (pre-commit security layer)
