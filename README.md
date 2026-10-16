@@ -40,6 +40,6 @@ I build Python automation, AI-assisted tools, and production-ready data pipeline
 
 **Currently working on**
 
-- 🚀 **Panopticon CVE Map** — CISA KEV integration, MD export, versioned chat (article published on dev.to)
+- 🚀 **Panopticon CVE Map** — CISA KEV integration, MD export, versioned chat
 - 🔒 **Murmur** — Zero-Knowledge secret scanner for Git hooks (pre-commit security layer)
 - 📚 Learning: LangGraph, RAG architecture, eval frameworks (Langfuse/Ragas), ClickHouse
