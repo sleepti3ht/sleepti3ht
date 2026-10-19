@@ -17,7 +17,7 @@ I build Python automation, AI-assisted tools, and production-ready data pipeline
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Building+async+systems;Designing+AI+agents;Crafting+data+pipelines" alt="Typing SVG" />
   </p>
   <p align="center">
-  <img src="https://ghchart.rshah.org/7C3AED/sleepti3ht" alt="Artem's GitHub contribution calendar" />
+  <img src="https://ghchart.rshah.org/7C3AED/sleepti3ht" alt="Art's GitHub contribution calendar" />
   </p>
 
  &nbsp;**Selected projects**
