@@ -1,4 +1,4 @@
-### Sup, I'm Art👋 
+### Sup, I'm Art 👋 
 
 I build Python automation, AI-assisted tools, and production-ready data pipelines. I like systems that are fast, reliable, and easy to debug.
 
@@ -22,8 +22,8 @@ I build Python automation, AI-assisted tools, and production-ready data pipeline
 
  &nbsp;**Selected projects**
 
-- [**Panopticon CVE Map**](https://github.com/sleepti3ht/Panopticon) `open-source` — desktop app for vulnerability analysis with CISA KEV + local AI agent. [dev.to](https://dev.to/sleepti3ht/building-panopticon-a-local-first-cve-intelligence-map-with-tauri-2-rust-python-4p6p)
-- [**Murmur**](https://github.com/sleepti3ht/Murmur) `open-source` — Zero-Knowledge secret scanner for Git hooks (SHA-256, no raw secrets).
+- [**Panopticon CVE Map**](https://github.com/sleepti3ht/Panopticon) `open-source` — desktop app for vulnerability analysis with CISA KEV + local AI agent (MCP + OpenRouter). ~15 MB binary, ~80 MB idle RAM vs ~150 MB / ~300 MB Electron equivalents. [dev.to](https://dev.to/sleepti3ht/building-panopticon-a-local-first-cve-intelligence-map-with-tauri-2-rust-python-4p6p). Code selected by XERJ Corpus Hub as a reference implementation for AI coding agents.
+- [**Murmur**](https://github.com/sleepti3ht/Murmur) `open-source` — Zero-Knowledge secret scanner for Git hooks (pre-commit + pre-push). SHA-256 hashes and masks only, raw secrets never touch disk, terminal or network. Hook overhead 29-80 ms on clean commits, Tauri 2 dashboard with 5-tab observability. v1.10.0.
 - [**Aero**](https://github.com/sleepti3ht/AeroUi) `open-source` — Windows File Explorer opacity control with atomic config writes.
 - [**Market Analytics Bot**](https://github.com/sleepti3ht/Market-Analytics-Bot) `open-source` — real-time arbitrage analytics with MCP server and Streamlit dashboard.
 - [**Sanity**](https://github.com/sleepti3ht/SanityBot) `private` — high-frequency trading bot with WebSocket + REST fallback, 0 HTTP 429 on 56M+ items. Architecture documented in README.
@@ -38,7 +38,7 @@ I build Python automation, AI-assisted tools, and production-ready data pipeline
 - **Security tools** that respect privacy (Zero-Knowledge, no telemetry)
 - **Systems with contracts** — clear inputs, predictable outputs, no magic
 
-**Currently working on**
+**Maintaining and learning**
 
 - 🚀 **Panopticon CVE Map** — CISA KEV integration, MD export, versioned chat
 - 🔒 **Murmur** — Zero-Knowledge secret scanner for Git hooks (pre-commit security layer)
