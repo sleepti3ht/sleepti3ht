@@ -20,14 +20,14 @@ I build Python automation, AI-assisted tools, and production-ready data pipeline
 
 **Selected projects**
 
-- [**Panopticon CVE Map**](https://github.com/sleepti3ht/Panopticon) `open-source` — desktop app for vulnerability analysis with CISA KEV + local AI agent (MCP + OpenRouter). ~15 MB binary, ~80 MB idle RAM vs ~150 MB / ~300 MB Electron equivalents. [dev.to](https://dev.to/sleepti3ht/building-panopticon-a-local-first-cve-intelligence-map-with-tauri-2-rust-python-4p6p). Code selected by XERJ Corpus Hub as a reference implementation for AI coding agents.
+- [**Panopticon CVE Map**](https://github.com/sleepti3ht/Panopticon) `open-source` — Desktop app for vulnerability analysis with CISA KEV + local AI agent (MCP + OpenRouter). ~15 MB binary, ~80 MB idle RAM vs ~150 MB / ~300 MB Electron equivalents. [dev.to](https://dev.to/sleepti3ht/building-panopticon-a-local-first-cve-intelligence-map-with-tauri-2-rust-python-4p6p). Code selected by XERJ Corpus Hub as a reference implementation for AI coding agents.
 - [**Murmur**](https://github.com/sleepti3ht/Murmur) `open-source` — Zero-Knowledge secret scanner for Git hooks (pre-commit + pre-push). SHA-256 hashes and masks only, raw secrets never touch disk, terminal or network. Hook overhead 29-80 ms on clean commits, Tauri 2 dashboard with 5-tab observability. v1.10.0.
-- [**CiLydian**](https://github.com/sleepti3ht/CiLydian) `open-source` — self-hosted agentic CI pipeline on LangGraph: spec → coder → advisory LLM judge → deterministic gates (ruff + pytest). Bounded repair loop with early abort when the coder gets stuck, self-learning instincts (F821 lessons injected into coder prompts), SQLite verdict cache exported to promptfoo eval corpus. Published to PyPI via OIDC trusted publishing. Companion [cilydian-studio](https://github.com/sleepti3ht/cilydian-studio): Textual TUI with human-in-the-loop interrupts and checkpoint resume after Ctrl+C. Built to explore LangGraph state management, graph orchestration, and deterministic gating for LLM-generated code.
+- [**CiLydian**](https://github.com/sleepti3ht/CiLydian) `open-source` — Self-hosted agentic CI pipeline on LangGraph: spec → coder → advisory LLM judge → deterministic gates (ruff + pytest). Bounded repair loop with early abort when the coder gets stuck, self-learning instincts (F821 lessons injected into coder prompts), SQLite verdict cache exported to promptfoo eval corpus. Published to PyPI via OIDC trusted publishing. Companion [cilydian-studio](https://github.com/sleepti3ht/cilydian-studio): Textual TUI with human-in-the-loop interrupts and checkpoint resume after Ctrl+C.
+- [**Market Analytics Bot**](https://github.com/sleepti3ht/Market-Analytics-Bot) `open-source` — Real-time arbitrage analytics with MCP server and Streamlit dashboard. Published as a free AI Skill on [Agensi](https://www.agensi.io/skills/cs2-skins-arbitrage-mcp) (marketplace for Claude/Cursor agents).
 - [**Aero**](https://github.com/sleepti3ht/AeroUi) `open-source` — Windows File Explorer opacity control with atomic config writes.
-- [**Market Analytics Bot**](https://github.com/sleepti3ht/Market-Analytics-Bot) `open-source` — real-time arbitrage analytics with MCP server and Streamlit dashboard.
-- [**Sanity**](https://github.com/sleepti3ht/SanityBot) `private` — high-frequency trading bot with WebSocket + REST fallback, 0 HTTP 429 on 56M+ items. Architecture documented in README.
+- [**Sanity**](https://github.com/sleepti3ht/SanityBot) `private` — High-frequency trading bot with WebSocket + REST fallback, 0 HTTP 429 on 56M+ items. Architecture documented in README.
 - [**GooEye**](https://github.com/sleepti3ht/GooEye) `private` — Goofish sniper bot with multi-user isolation, mtop API interception, 0 CAPTCHA on 44k+ items.
-  
+
 **What I enjoy building**
 
 - **Async systems** that survive edge cases (WebSocket + REST fallback, retry with backoff)
@@ -42,4 +42,5 @@ I build Python automation, AI-assisted tools, and production-ready data pipeline
 - 🚀 **Panopticon CVE Map** — CISA KEV integration, MD export, versioned chat
 - 🔒 **Murmur** — Zero-Knowledge secret scanner (pre-commit security layer)
 - 🤖 **CiLydian** — agentic CI on LangGraph (PyPI: `cilydian 0.3.0`)
+- 🛒 **Market Analytics Bot** — MCP skill on Agensi (arbitrage analytics)
 - 📚 **Exploring:** RAG architecture, eval frameworks (Langfuse/Ragas), ClickHouse
